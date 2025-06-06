@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+int main() // Basic Structure
 {
 
     return 0;
